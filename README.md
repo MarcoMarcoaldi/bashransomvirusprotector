@@ -26,12 +26,15 @@ This script is useful for automating the download and processing of IP address a
 
 ### Examples
 Obtain the:
+
 net blocks related to France: ./bashramsonvirusprotector.sh -c FR
 net blocks related to Italy and France: ./bashransomvirusprotector.sh -c FR,IT
+
 Do you want know the command to block:
 All russian IP addresses: ./bashransomvirusprotector.sh -c RU -p "iptables -I INPUT -s " -P " -j REJECT"
+All russian and chinese IP addresses : ./bashransomvirusprotector.sh -c RU,CN -p "iptables -I INPUT -s " -P " -j REJECT"
 
-Create script for block all Russian IP: ./bashransomvirusprotector.sh -c RU -p "iptables -I INPUT -s " -P " -j REJECT" > script.sh
+The following command create script for block all Russian IP: ./bashransomvirusprotector.sh -c RU -p "iptables -I INPUT -s " -P " -j REJECT" > script.sh
 
 You will obtain a simple script that blocks all the connection coming from Russia.
 
