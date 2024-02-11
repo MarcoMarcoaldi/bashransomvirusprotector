@@ -21,7 +21,7 @@ The following command : curl, awk, bc, sed, md5sum (normally just installed in a
 Compatible for all Linux system using bash shell and iptables.
 
 ### What this script does
-The provided script is a shell script designed to download and process IP address allocations from the RIPE NCC (Réseaux IP Européens Network Coordination Centre), specifically focusing on IPv4 addresses allocated to certain countries. 
+The provided script is a shell script designed to download and process IP address allocations from the RIPE NCC (Réseaux IP Européens Network Coordination Centre) https://www.ripe.net/manage-ips-and-asns/db/, specifically focusing on IPv4 addresses allocated to certain countries. 
 
 This script is useful for automating the download and processing of IP address allocation data from RIPE NCC, potentially for analysis, reporting, or integration into other tools or databases, or in this case, make an another script with all IPTables command to block country,
 
