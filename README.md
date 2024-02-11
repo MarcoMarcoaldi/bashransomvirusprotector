@@ -25,11 +25,14 @@ The provided script is a shell script designed to download and process IP addres
 
 This script is useful for automating the download and processing of IP address allocation data from RIPE NCC, potentially for analysis, reporting, or integration into other tools or databases, or in this case, make an another script with all IPTables command to block country,
 
-### Examples
+### Examples and syntax
 Obtain the:
 
-net blocks related to France: ./bashramsonvirusprotector.sh -c FR
-net blocks related to Italy and France: ./bashransomvirusprotector.sh -c FR,IT
+net blocks related to France:
+./bashramsonvirusprotector.sh -c FR
+
+net blocks related to Italy and France:
+./bashransomvirusprotector.sh -c FR,IT
 
 Do you want know the command to block:
 All russian IP addresses: 
