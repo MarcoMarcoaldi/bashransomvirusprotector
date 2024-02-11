@@ -17,6 +17,7 @@ The license ? AGPL. Look at it.
 
 ### Technologies
 Only Bash scripting
+The following command : curl, awk, bc, sed, md5sum (normally just installed in almost Linux distribution)
 Compatible for all Linux system using bash shell and iptables.
 
 ### What this script does
