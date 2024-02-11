@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # -------------------------------------------------------------------------------------------
 #
 # BashRansomVirusProtector.sh
@@ -7,12 +6,12 @@
 # by Marco Marcoaldi @ Managed Server S.r.l. info@managedserver.it
 #
 # This is a Pure Bash adaptation of the Original Idea and Python3 code
-# by Giovanbattista Vieri titled "RansomVirusProtector".
+# by Giovambattista Vieri titled "RansomVirusProtector".
 #
 # Source: https://github.com/gvieri/ransomvirusprotector
 #
 #
-# Introduction Quoted by Giovanbattista:
+# Introduction Quoted by Giovambattista:
 #
 # " We live in tragic times where war is returning in Europe. After experiencing
 # death and destructions in various parts of the world, we now face the challenge
