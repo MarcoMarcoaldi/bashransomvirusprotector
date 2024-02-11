@@ -1,7 +1,8 @@
-### Important note and claim
-This script is an pure Bash adaption and "conversion" of original idea by Giovanbattista Vieri and his RansomVirusProtector tool, developed in Python3 and located at (https://github.com/gvieri/ransomvirusprotector).
+### Important Note and Disclaimer
 
-I look for a simple solution, using only bash scripting without the use of Python.
+This script is a pure Bash adaptation and conversion of the original concept by Giovanbattista Vieri and his RansomVirusProtector tool, which was developed in Python3 and can be found at https://github.com/gvieri/ransomvirusprotector.
+
+In seeking a simpler solution, I aimed to utilize only Bash scripting, avoiding the need for Python. This approach was chosen to streamline the implementation process, making it more accessible for environments where Python may not be readily available or for users who prefer working directly with shell scripts. The goal was to maintain the core functionality and spirit of the original tool while ensuring it could be deployed with the minimal dependencies and setup required.
 
 ### Introduction (quote by the Author of original project)
 We live in tragic times where war is returning in Europe. After that we had death and destructions in AF, YU, SY a lot of African places and in Asia. Now we have to front cyberwae and rogue cyber attack. I can't do anything to stop a cyber war but I really hope this script will become usefull to sme's owner and healthcare organizations. In brief: malware needs to "phone home" for both ativation and to esfiltrate stolen data. It will phone home to get the 'key' to encrypt all your data before ask for ransom.
