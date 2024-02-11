@@ -1,6 +1,6 @@
 ### Important Note and Disclaimer
 
-This script is a pure Bash adaptation and conversion of the original concept by Giovanbattista Vieri and his RansomVirusProtector tool, which was developed in Python3 and can be found at https://github.com/gvieri/ransomvirusprotector.
+This script is a pure Bash adaptation and conversion of the original concept by Giovambattista Vieri and his RansomVirusProtector tool, which was developed in Python3 and can be found at https://github.com/gvieri/ransomvirusprotector.
 
 In seeking a simpler solution, I aimed to utilize only Bash scripting, avoiding the need for Python. This approach was chosen to streamline the implementation process, making it more accessible for environments where Python may not be readily available or for users who prefer working directly with shell scripts. The goal was to maintain the core functionality and spirit of the original tool while ensuring it could be deployed with the minimal dependencies and setup required.
 
