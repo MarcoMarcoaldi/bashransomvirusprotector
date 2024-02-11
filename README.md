@@ -17,6 +17,7 @@ The license ? AGPL. Look at it.
 
 ### Technologies
 Only Bash scripting
+Compatible for all Linux system using bash shell and iptables.
 
 ### What this script does
 The provided script is a shell script designed to download and process IP address allocations from the RIPE NCC (Réseaux IP Européens Network Coordination Centre), specifically focusing on IPv4 addresses allocated to certain countries. 
@@ -32,9 +33,9 @@ All russian IP addresses: ./bashransomvirusprotector.sh -c RU -p "iptables -I IN
 
 Create script for block all Russian IP: ./bashransomvirusprotector.sh -c RU -p "iptables -I INPUT -s " -P " -j REJECT" > script.sh
 
-You will obtain a simple script that blocks all the connection coming from Russian.
+You will obtain a simple script that blocks all the connection coming from Russia.
 
-Now launch the script.sh
+Now launch the script.sh and all the iptables command applied.
 
 **Installation**
 
