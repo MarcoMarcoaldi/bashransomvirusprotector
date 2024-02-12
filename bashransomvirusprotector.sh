@@ -44,7 +44,7 @@
 # To block all Russian IP addresses:
 # ./bashransomvirusprotector.sh -c RU -p "iptables -I INPUT -s " -P " -j REJECT"
 #
-# Then, to block all connections coming from Germany and generate an iptables script:
+# Then, to block all connections coming from Russia and generate an iptables script:
 # ./bashransomvirusprotector.sh -c RU -p "iptables -I INPUT -s " -P " -j REJECT" > script.sh
 #
 # This will produce a script to block all connections coming from Russia.
