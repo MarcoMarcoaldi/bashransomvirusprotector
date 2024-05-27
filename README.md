@@ -1,3 +1,5 @@
+![image](https://github.com/MarcoMarcoaldi/bashransomvirusprotector/assets/113010551/7570c428-2893-4eb9-bc40-6d474a0431e6)
+
 ### Important Note and Disclaimer
 
 This script is a pure Bash adaptation and conversion of the original concept by Giovambattista Vieri and his RansomVirusProtector tool, which was developed in Python3 and can be found at https://github.com/gvieri/ransomvirusprotector.
