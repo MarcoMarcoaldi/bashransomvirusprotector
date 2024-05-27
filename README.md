@@ -1,4 +1,5 @@
-![image](https://github.com/MarcoMarcoaldi/bashransomvirusprotector/assets/113010551/7570c428-2893-4eb9-bc40-6d474a0431e6)
+![image](https://github.com/MarcoMarcoaldi/bashransomvirusprotector/assets/113010551/358e5b8d-df4b-4088-8431-d7f674ce02eb)
+
 
 ### Important Note and Disclaimer
 
